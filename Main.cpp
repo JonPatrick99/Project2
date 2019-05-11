@@ -93,4 +93,4 @@ string hasher(string in, hash<string> stHash)				//Generates a hash that has a l
 
 
 
-// I got help with the project from "Data Structures and Algorithm Analysis in C++", www.cplusplus.com, geeksforgeeks.com, and my brother.
+// I got help with the project from "Data Structures and Algorithm Analysis in C++", www.cplusplus.com, geeksforgeeks.org, and my brother.
